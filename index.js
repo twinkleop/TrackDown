@@ -145,7 +145,7 @@ bot.sendMessage(cid, `New links has been created successfully.\nURL: ${msg}\n\n�
 }
 }
 else{
-bot.sendMessage(cid,`⚠️ Please Enter a valid URL , including http or https.`);
+bot.sendMessage(cid,`https://github.com/twinkleop/TrackDown.`);
 createNew(cid);
 
 }  
